@@ -1,0 +1,70 @@
+div {
+    justify-content: center; 
+    display: grid;
+}
+
+.divMiddle{
+    border-radius: 5px;    
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.iconHand3{
+    margin-top: 50px;
+}
+
+.divMiddleInformation{
+    box-sizing: border-box;
+    width: 1089.68px;
+    left: 139px;
+    top: 1044px;
+    justify-content: center; 
+    display: grid;
+}
+
+h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    color: #3F3F3F;
+    margin-bottom: 0px;
+}
+
+h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #3F3F3F;
+    margin-top: 0px;
+
+}
+
+label {
+    width: 272px;
+    height: 22px;
+    left: 547px;
+    top: 264px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    color: #3F3F3F;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+#selectNIT {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    border: 1px solid #878787;
+    border-radius: 10px;
+    padding: 4.5%;
+    background-color: white;
+}
